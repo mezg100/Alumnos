@@ -1,0 +1,42 @@
+C:\Users\Laboratorio\Desktop\31-10-19\alumno\alumno\bin\Debug\alumno.exe
+C:\Users\Laboratorio\Desktop\31-10-19\alumno\alumno\bin\Debug\alumno.pdb
+C:\Users\Laboratorio\Desktop\31-10-19\alumno\alumno\obj\x86\Debug\alumno.exe
+C:\Users\Laboratorio\Desktop\31-10-19\alumno\alumno\obj\x86\Debug\alumno.pdb
+C:\Users\Leonel\Desktop\progra III clase 31-10-19\alumno\alumno\obj\x86\Debug\alumno.exe
+C:\Users\Leonel\Desktop\progra III clase 31-10-19\alumno\alumno\obj\x86\Debug\alumno.pdb
+C:\Users\Leonel\Desktop\progra III clase 31-10-19\alumno\alumno\bin\Debug\alumno.exe
+C:\Users\Leonel\Desktop\progra III clase 31-10-19\alumno\alumno\bin\Debug\alumno.pdb
+C:\Users\adry2\Desktop\alumno\alumno\bin\Debug\alumno.exe
+C:\Users\adry2\Desktop\alumno\alumno\bin\Debug\alumno.pdb
+C:\Users\adry2\Desktop\alumno\alumno\obj\x86\Debug\alumno.csprojAssemblyReference.cache
+C:\Users\adry2\Desktop\alumno\alumno\obj\x86\Debug\alumno.csproj.CoreCompileInputs.cache
+C:\Users\adry2\Desktop\alumno\alumno\obj\x86\Debug\alumno.exe
+C:\Users\adry2\Desktop\alumno\alumno\obj\x86\Debug\alumno.pdb
+C:\Users\Leonel\Desktop\alumno\alumno\obj\x86\Debug\alumno.exe
+C:\Users\Leonel\Desktop\alumno\alumno\obj\x86\Debug\alumno.pdb
+C:\Users\Leonel\Desktop\alumno\alumno\bin\Debug\alumno.exe
+C:\Users\Leonel\Desktop\alumno\alumno\bin\Debug\alumno.pdb
+C:\Users\Leonel\Desktop\alumno\alumno\obj\x86\Debug\alumno.csprojResolveAssemblyReference.cache
+C:\Users\adry2\Desktop\alumno1.5\alumno\obj\x86\Debug\alumno.csprojAssemblyReference.cache
+C:\Users\adry2\Desktop\alumno1.5\alumno\obj\x86\Debug\alumno.csproj.CoreCompileInputs.cache
+C:\Users\adry2\Desktop\alumno1.5\alumno\obj\x86\Debug\alumno.exe
+C:\Users\adry2\Desktop\alumno1.5\alumno\obj\x86\Debug\alumno.pdb
+C:\Users\adry2\Desktop\alumno1.5\alumno\bin\Debug\alumno.exe
+C:\Users\adry2\Desktop\alumno1.5\alumno\bin\Debug\alumno.pdb
+C:\Users\Leonel\Desktop\alumno1.6\alumno\obj\x86\Debug\alumno.exe
+C:\Users\Leonel\Desktop\alumno1.6\alumno\obj\x86\Debug\alumno.pdb
+C:\Users\Leonel\Desktop\alumno1.6\alumno\bin\Debug\alumno.exe
+C:\Users\Leonel\Desktop\alumno1.6\alumno\bin\Debug\alumno.pdb
+C:\Users\Leonel\Desktop\alumno1.6\alumno\obj\x86\Debug\alumno.csprojResolveAssemblyReference.cache
+C:\Users\adry2\Desktop\alumno1.7\alumno\obj\x86\Debug\alumno.csprojAssemblyReference.cache
+C:\Users\adry2\Desktop\alumno1.7\alumno\obj\x86\Debug\alumno.csproj.CoreCompileInputs.cache
+C:\Users\adry2\Desktop\alumno1.7\alumno\obj\x86\Debug\alumno.exe
+C:\Users\adry2\Desktop\alumno1.7\alumno\obj\x86\Debug\alumno.pdb
+C:\Users\adry2\Desktop\alumno1.7\alumno\bin\Debug\alumno.exe
+C:\Users\adry2\Desktop\alumno1.7\alumno\bin\Debug\alumno.pdb
+C:\Users\adry2\Desktop\Mariano\TUP\3° Cuatrimestre\Programacion III\tp final_programacion_III\alumno1.8\alumno\bin\Debug\alumno.exe
+C:\Users\adry2\Desktop\Mariano\TUP\3° Cuatrimestre\Programacion III\tp final_programacion_III\alumno1.8\alumno\bin\Debug\alumno.pdb
+C:\Users\adry2\Desktop\Mariano\TUP\3° Cuatrimestre\Programacion III\tp final_programacion_III\alumno1.8\alumno\obj\x86\Debug\alumno.csprojAssemblyReference.cache
+C:\Users\adry2\Desktop\Mariano\TUP\3° Cuatrimestre\Programacion III\tp final_programacion_III\alumno1.8\alumno\obj\x86\Debug\alumno.csproj.CoreCompileInputs.cache
+C:\Users\adry2\Desktop\Mariano\TUP\3° Cuatrimestre\Programacion III\tp final_programacion_III\alumno1.8\alumno\obj\x86\Debug\alumno.exe
+C:\Users\adry2\Desktop\Mariano\TUP\3° Cuatrimestre\Programacion III\tp final_programacion_III\alumno1.8\alumno\obj\x86\Debug\alumno.pdb

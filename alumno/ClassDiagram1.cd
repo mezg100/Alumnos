@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="interfaz.CInterfaz">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAABAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CInterfaz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="controladora.Ccontroladora">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>CControladora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Comision.CAlumnos">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Comision.CAlumnos.myComparer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CAlumnos.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAIAABAIQAAAgAAAAAAAQAAABAAAAAAAAQ=</HashCode>
+      <FileName>CAlumnos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="alumno.CAlumno">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABEBQACQAAAAAIEAABkBAAESAAQAAgAAAAAAABAA=</HashCode>
+      <FileName>CAlumno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
